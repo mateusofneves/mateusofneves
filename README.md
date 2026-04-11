@@ -62,6 +62,6 @@ Busco constantemente evoluir minhas habilidades em programação e desenvolver s
 
 <p align="center">
   <a href="https://github.com/mateusofneves">GitHub</a> •
-  <a href="www.linkedin.com/in/mateus-de-oliveira-46bb28367">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mateus-de-oliveira-46bb28367/">LinkedIn</a> •
   <a href="https://www.instagram.com/mateuss.stk/">Instagram</a>
 </p>
