@@ -13,7 +13,7 @@ Me chamo Mateus e sou estudante de Ciência da Computação na FIAP • Desenvol
 <p>
 Sou estudante de Ciência da Computação com interesse em desenvolvimento de software e tecnologia em geral.
 
-Busco constantemente evoluir minhas habilidades em programação e desenvolver soluções práticas, com foco em eficiência e aprendizado contínuo.
+Busco constantemente evoluir minhas habilidades em programação e desenvolver soluções práticas, com foco em eficiência e aprendizado contínuo. 
 </p>
 
 ---
