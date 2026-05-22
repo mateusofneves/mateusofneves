@@ -72,14 +72,6 @@ Busco constantemente evoluir minhas habilidades em programação e desenvolver s
 
 ---
 
-## 📈 Atividade
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateusofneves&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff4d4d" />
-</div>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
