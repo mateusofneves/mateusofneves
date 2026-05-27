@@ -8,7 +8,7 @@ Me chamo Mateus e sou estudante de Ciência da Computação na FIAP • Desenvol
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 <p>
 Sou estudante de Ciência da Computação com interesse em desenvolvimento de software e tecnologia em geral.
@@ -18,7 +18,7 @@ Busco constantemente evoluir minhas habilidades em programação e desenvolver s
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Busco constantemente evoluir minhas habilidades em programação e desenvolver s
 
 ---
 
-## 🧠 Conhecimentos
+## Conhecimentos
 
 - Desenvolvimento com **Python, C e C++**
 - Banco de dados com **SQL (PostgreSQL e MySQL)**
@@ -63,7 +63,7 @@ Busco constantemente evoluir minhas habilidades em programação e desenvolver s
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusofneves&theme=github_dark" height="150" />
@@ -72,7 +72,7 @@ Busco constantemente evoluir minhas habilidades em programação e desenvolver s
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
 
