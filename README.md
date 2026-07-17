@@ -61,7 +61,7 @@ Busco constantemente evoluir minhas habilidades em programação e desenvolver s
 
 ## Conhecimentos
 
-- Desenvolvimento com **Python, C e C++**
+- Desenvolvimento com **Python, C e C++, C#, .NET E ASP.NET**
 - Banco de dados com **SQL (PostgreSQL e MySQL)**
 - Lógica de programação e estrutura de dados
 - Integração de sistemas e desenvolvimento de projetos práticos
